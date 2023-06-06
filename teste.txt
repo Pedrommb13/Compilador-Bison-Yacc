@@ -1,0 +1,20 @@
+BEGIN
+{
+    INIT-OBJETO(40,60),
+    ANDAR(59),
+    VIRAR-DIREITA,
+    ANDAR(38),
+    PINÇA(ABRIR),
+    PINÇA(FECHAR),
+    ANDAR(60),
+    VIRAR-ESQUERDA,
+    ANDAR(39),
+    RODAR(45),
+    PINÇA(ABRIR),
+    VIRAR-ESQUERDA,
+    ANDAR(98),
+    VIRAR-ESQUERDA,
+    ANDAR(98)
+}
+END
+
